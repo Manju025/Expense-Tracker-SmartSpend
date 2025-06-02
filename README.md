@@ -22,3 +22,13 @@ SmartSpend/
 ├── excel_export.py # Excel export module  
 ├── requirements.txt # Required packages  
 └── README.md  
+
+## 📦 Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+## 🖥️ Run the App
+```bash
+python main.py
+```
