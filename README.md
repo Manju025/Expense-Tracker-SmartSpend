@@ -14,11 +14,11 @@ A clean, feature-rich Python desktop app for managing personal expenses. Built w
 - 🌑 Dark Mode Toggle (coming soon)
 
 ## 📂 Folder Structure
-SmartSpend/
-│
-├── ui.py # Main GUI
-├── db.py # SQLite DB logic
-├── report_gen.py # PDF report creator
-├── excel_export.py # Excel export module
-├── requirements.txt # Required packages
-└── README.md
+SmartSpend/  
+│  
+├── ui.py # Main GUI  
+├── db.py # SQLite DB logic  
+├── report_gen.py # PDF report creator    
+├── excel_export.py # Excel export module  
+├── requirements.txt # Required packages  
+└── README.md  
